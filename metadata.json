@@ -1,0 +1,9 @@
+{
+  "name": "SWISS ATELIER | Autonomous Logic",
+  "description": "Ultra-precise Alpine fashion ecosystem governed by autonomous AI guard protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
